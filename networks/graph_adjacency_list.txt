@@ -1,0 +1,7 @@
+#/Users/andrestobelem/Workspace/networkscience/venv/lib/python3.13/site-packages/ipykernel_launcher.py --f=/Users/andrestobelem/Library/Jupyter/runtime/kernel-v3d7bdcbf005ddf998167a67b324fd6b3f52db9968.json
+# GMT Wed Oct 22 17:45:15 2025
+# 
+1 2 3
+2 3 4
+3
+4
